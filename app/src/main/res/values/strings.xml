@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElectronicCity</string>
+    <string name="imageDescription">Description de Image</string>
+    <string name="name">Nombre del SuperHeroe</string>
+    <string name="description">Description del SuperHeroe</string>
+    <string name="slug">Slug del SuperHeroe</string>
+    <string name="app_cache">app_cache</string>
+    <string name="xml_local_superhero">xml_local_superhero</string>
+</resources>

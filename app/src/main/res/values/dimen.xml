@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide1_begin">35dp</dimen>
+    <dimen name="guide2_begin">210dp</dimen>
+    <dimen name="guide3_begin">245dp</dimen>
+    <dimen name="imageMarginStart">16dp</dimen>
+    <dimen name="textMarginTop">152dp</dimen>
+    <dimen name="textMarginStar">90dp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="constraintVertical">0.752</dimen>
+</resources>
